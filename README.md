@@ -3,15 +3,15 @@
 - Making Smart Rocks etched in hieroglyphs do Neat Tricks
 
 - I am interested in Websites, UI/UX Design and Engineering, and Independent Web Presence.
-- I believe in the power of open source,
-- I also believe in the security of proprietary information;
+- I believe in the Power of open source.
+- I also believe in the Right to secure proprietary information.
   
-    *The challenging aspect is how We, the Information Technology community, find a reasonable balance between the two.
+    *The challenge is how We, as the Information Technology community, find a Reasonable, Ethical, and Effective balance between both.*
 
-- I enjoy learning about new concepts, tools, and products.
+- I enjoy learning new concepts, and how to implement new products.
 - Aspiring polyglot, open to collaboration and/or instruction on:
   
-      '.py', '.js (.jsx)', '.java', '.cpp', '.cs', '.ts', '.sql', '.go', '.swift', '.rs'
+    *'.py', '.js (.jsx)', '.java', '.cpp', '.cs', '.ts', '.sql', '.go', '.swift', '.rs'*
   
 - I am intrigued by the impact of Moore's Law and how it will affect Humanity. 
 - The universe is discovering itself and we are the translators.
