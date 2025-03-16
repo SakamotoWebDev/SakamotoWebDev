@@ -2,7 +2,7 @@
 
  *a user of energized Rocks etched in Hieroglyphs following Instructions.*
 
-- Hooked by UI/UX Engineering and Design.
+- Hooked on UI/UX Engineering and Design.
 - Inspired by a belief in independent web presence.
 - I enjoy solutions that are persistent, immutable, and original.
 - I enjoy learning new concepts and implementing new methodologies.
